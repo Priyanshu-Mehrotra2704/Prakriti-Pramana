@@ -18,8 +18,8 @@ body {
     padding: 10px;
     font-size: 2vw;
     font-weight: bold;
-    color: rgb(207, 70, 139);
-    background-color: rgba(191, 197, 32, 0.234);
+    color: rgba(0, 0, 255, 0.692);
+    background-color: rgba(32, 197, 170, 0.234);
     border-radius: 10px;
   }
   
